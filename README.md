@@ -1,2 +1,2 @@
 # UBL
-UBL Standarizations
+UBL Standardization
